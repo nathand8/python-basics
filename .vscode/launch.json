@@ -9,7 +9,7 @@
             "type": "python",
             "request": "launch",
             "program": "Test.py",
-            "cwd":"${workspaceFolder}/exercises/0_Variables",
+            "cwd":"${workspaceFolder}/exercises/0_Start",
             "console": "integratedTerminal",
         },
         {
@@ -18,6 +18,14 @@
             "request": "launch",
             "program": "Test.py",
             "cwd":"${workspaceFolder}/exercises/1_Strings",
+            "console": "integratedTerminal",
+        },
+        {
+            "name": "Run Arrays Test",
+            "type": "python",
+            "request": "launch",
+            "program": "Test.py",
+            "cwd":"${workspaceFolder}/exercises/2_Arrays",
             "console": "integratedTerminal",
         }
     ]

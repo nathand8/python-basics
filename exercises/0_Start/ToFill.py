@@ -1,14 +1,14 @@
 def doSimpleCalculations():
     #  create variable equal to 99999
     #  create variable equal to 11111
-    return 9#  return first variable divided by the second one
+    return() #  return first variable divided by the second one
 
 
 def combineStringsSimple():
   #  create variable Univerisity of
   #  create variable Utah
   #  create variable Rules
-  return ()#   return University of Utah Rules
+  return () #   return University of Utah Rules
 
 
 def combineNumsStrings():
