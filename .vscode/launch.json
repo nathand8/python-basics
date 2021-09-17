@@ -27,6 +27,14 @@
             "program": "Test.py",
             "cwd":"${workspaceFolder}/exercises/2_Arrays",
             "console": "integratedTerminal",
+        },
+        {
+            "name": "Run Logic Test",
+            "type": "python",
+            "request": "launch",
+            "program": "Test.py",
+            "cwd":"${workspaceFolder}/exercises/3_Logic",
+            "console": "integratedTerminal",
         }
     ]
 }
