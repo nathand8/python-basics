@@ -5,7 +5,7 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Run Variables Test",
+            "name": "Run Variables Tests",
             "type": "python",
             "request": "launch",
             "program": "Test.py",
@@ -13,7 +13,7 @@
             "console": "integratedTerminal",
         },
         {
-            "name": "Run Strings Test",
+            "name": "Run Strings Tests",
             "type": "python",
             "request": "launch",
             "program": "Test.py",
@@ -29,7 +29,7 @@
             "console": "integratedTerminal",
         },
         {
-            "name": "Run Logic Test",
+            "name": "Run Logic Tests",
             "type": "python",
             "request": "launch",
             "program": "Test.py",
@@ -37,11 +37,19 @@
             "console": "integratedTerminal",
         },
         {
-            "name": "Run Loops Test",
+            "name": "Run Loops Tests",
             "type": "python",
             "request": "launch",
             "program": "Test.py",
             "cwd":"${workspaceFolder}/exercises/4_Loops",
+            "console": "integratedTerminal",
+        },
+        {
+            "name": "Run Dictionaries Tests",
+            "type": "python",
+            "request": "launch",
+            "program": "Test.py",
+            "cwd":"${workspaceFolder}/exercises/5_Dictionaries",
             "console": "integratedTerminal",
         }
     ]
