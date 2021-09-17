@@ -1,0 +1,24 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run Variables Test",
+            "type": "python",
+            "request": "launch",
+            "program": "Test.py",
+            "cwd":"${workspaceFolder}/exercises/0_Variables",
+            "console": "integratedTerminal",
+        },
+        {
+            "name": "Run Strings Test",
+            "type": "python",
+            "request": "launch",
+            "program": "Test.py",
+            "cwd":"${workspaceFolder}/exercises/1_Strings",
+            "console": "integratedTerminal",
+        }
+    ]
+}
