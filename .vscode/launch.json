@@ -35,6 +35,14 @@
             "program": "Test.py",
             "cwd":"${workspaceFolder}/exercises/3_Logic",
             "console": "integratedTerminal",
+        },
+        {
+            "name": "Run Loops Test",
+            "type": "python",
+            "request": "launch",
+            "program": "Test.py",
+            "cwd":"${workspaceFolder}/exercises/4_Loops",
+            "console": "integratedTerminal",
         }
     ]
 }
