@@ -27,7 +27,7 @@ else:
 
 if(hasattr(toFill, 'convertStringToNum') and callable(getattr(toFill, 'convertStringToNum'))):
     if toFill.convertStringToNum(2500)  == 50 and toFill.convertStringToNum("3000")  == 60:
-        score+=1
+        score+=2
 else:
     print("ATTN:!!!Please create method convertStringToNum!!!")
 
